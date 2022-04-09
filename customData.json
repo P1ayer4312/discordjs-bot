@@ -1,0 +1,49 @@
+{
+	"emotes": {
+		"pog": "https://tenor.com/view/pog-fish-fish-mouth-open-gif-17487624",
+		"kekw": "https://ggscore.com/media/logo/t62288.png?75",
+		"sh": "https://c.tenor.com/wvIp1PVyXvUAAAAC/sheesh-yikes.gif",
+		"da": "https://media.giphy.com/media/l2JhOVyjSHGejoXXq/giphy.gif"
+	},
+	"helpEmbed":  {
+		"color": "0xbb58fd",
+		"title": "HELP!!!",
+		"fields": [{
+				"name": "!flip",
+				"value": "Flip a coin."
+			},
+			{
+				"name": "!roll, !roll N, !roll N M",
+				"value": "Roll a dice."
+			},
+			{
+				"name": "!clear N",
+				"value": "Clear up to 15 messages."
+			},
+			{
+				"name": "!pog, !kekw, !sh, !da",
+				"value": "Emotes"
+			},
+			{
+				"name": "!rn",
+				"value": "Random selector (EXP : !rn picaburek.bureksomeso)"
+			},
+			{
+				"name": "!time",
+				"value": "Show local time"
+			},
+			{
+				"name": "!shout",
+				"value": "Transform a word to an emoji. (Exp : !shout Hello guys)"
+			},
+			{
+				"name": "!spotify",
+				"value": "Returns random Spotify playlist"
+			},
+			{
+				"name": "!reminder <time> <message>",
+				"value": "Set a reminder (example: 1d2h20m, 3d, 4h33m, 10m, 23h)"
+			}   
+		]
+	}
+}

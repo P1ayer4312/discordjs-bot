@@ -1,0 +1,33 @@
+{
+  "name": "discord.js-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.11.0",
+    "npm": "8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P1ayer4312/discordjs-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.7.5",
+    "axios": "^0.24.0",
+    "discord.js": "^13.2.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "gtts": "^0.2.1",
+    "tweetnacl": "^1.0.3",
+    "ytdl-core": "^4.10.0"
+  }
+}
